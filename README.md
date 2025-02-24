@@ -1,11 +1,11 @@
-# Performance Tracker V1 📈
+# Insight Spark 📈
 #### Video Demo: <https://youtu.be/gmbaiSpUGpo>
 #### Description:
-Performance Tracker V1 is a Streamlit-based web application designed to analyze student performance in real-time. The application allows users to upload an Excel file containing student data, select specific subjects to visualize, and generate performance insights, all within an intuitive graphical user interface. By leveraging powerful libraries such as Pandas, Plotly, and Streamlit, this tool provides educators with a comprehensive view of student progress and areas needing improvement.
+Insight Spark is a Streamlit-based web application designed to analyze student performance in real-time. The application allows users to upload an Excel file containing student data, select specific subjects to visualize, and generate performance insights, all within an intuitive graphical user interface. By leveraging powerful libraries such as Pandas, Plotly, and Streamlit, this tool provides educators with a comprehensive view of student progress and areas needing improvement.
 
 
 ## Project Overview
-Performance Tracker V1 addresses the need for quick and effective student performance analysis. By integrating data visualization techniques, it transforms the boring excel sheets into intresting and captivating data visuals using a excel sheet standardised in the format I have provided
+Insight Spark addresses the need for quick and effective student performance analysis. By integrating data visualization techniques, it transforms the boring excel sheets into intresting and captivating data visuals using a excel sheet standardised in the format I have provided
 
 ## Web App link and standard file format
 -  web app: <https://performance-tracker.streamlit.app/>
@@ -59,7 +59,7 @@ Lists all the required libraries and dependencies to run the project. Ensures th
 3. **User Authentication**: Implement user authentication to provide personalized experiences.
 
 ## Conclusion
-Performance Tracker V1 is a powerful tool designed to assist educators in analyzing student performance efficiently. By converting raw data into actionable insights, it enables more informed decision-making. The project's modular design, detailed visualizations, and intuitive interface make it a valuable addition to any educational institution's toolkit.
+Insight Spark is a powerful tool designed to assist educators in analyzing student performance efficiently. By converting raw data into actionable insights, it enables more informed decision-making. The project's modular design, detailed visualizations, and intuitive interface make it a valuable addition to any educational institution's toolkit.
 
 For any enquires feel free to reach out to me at <dimareznokov@gmail.com>
 
