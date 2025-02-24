@@ -8,7 +8,7 @@ Performance Tracker V1 is a Streamlit-based web application designed to analyze 
 Performance Tracker V1 addresses the need for quick and effective student performance analysis. By integrating data visualization techniques, it transforms the boring excel sheets into intresting and captivating data visuals using a excel sheet standardised in the format I have provided
 
 ## Web App link 
-- ** web app: <https://performance-tracker.streamlit.app/>
+-  web app: <https://performance-tracker.streamlit.app/>
 
 ### Main Features
 - **File Upload**: Users can upload an Excel file containing student performance data.
