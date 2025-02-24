@@ -7,9 +7,9 @@ Performance Tracker V1 is a Streamlit-based web application designed to analyze 
 ## Project Overview
 Performance Tracker V1 addresses the need for quick and effective student performance analysis. By integrating data visualization techniques, it transforms the boring excel sheets into intresting and captivating data visuals using a excel sheet standardised in the format I have provided
 
-## Web App link 
+## Web App link and standard file format
 -  web app: <https://performance-tracker.streamlit.app/>
-
+-  standard excel format : <https://docs.google.com/spreadsheets/d/1scjpNbJAsxlxqITaOqgu7H2bEOzSqLfz/edit?usp=sharing&ouid=115804011227994331024&rtpof=true&sd=true>
 ### Main Features
 - **File Upload**: Users can upload an Excel file containing student performance data.
 - **Roll Number Verification**: Ensures that the entered roll number exists in the dataset.
@@ -61,6 +61,6 @@ Lists all the required libraries and dependencies to run the project. Ensures th
 ## Conclusion
 Performance Tracker V1 is a powerful tool designed to assist educators in analyzing student performance efficiently. By converting raw data into actionable insights, it enables more informed decision-making. The project's modular design, detailed visualizations, and intuitive interface make it a valuable addition to any educational institution's toolkit.
 
-For a detailed demonstration, please refer to the [Video Demo](<URL HERE>).
+For any enquires feel free to reach out to me at <dimareznokov@gmail.com>
 
 Feel free to explore, contribute, and provide feedback to further enhance this project!
