@@ -4,7 +4,7 @@
 Performance Tracker V1 is a Streamlit-based web application designed to analyze student performance in real-time. The application allows users to upload an Excel file containing student data, select specific subjects to visualize, and generate performance insights, all within an intuitive graphical user interface. By leveraging powerful libraries such as Pandas, Plotly, and Streamlit, this tool provides educators with a comprehensive view of student progress and areas needing improvement.
 
 ## Project Overview
-Performance Tracker V1 addresses the need for quick and effective student performance analysis. By integrating data visualization techniques, it transforms raw data into easy-to-understand charts and graphs, aiding educators in decision-making processes. 
+Performance Tracker V1 addresses the need for quick and effective student performance analysis. By integrating data visualization techniques, it transforms the boring excel sheets into intresting and captivating data visuals using a excel sheet standardised in the format I have provided
 
 ### Main Features
 - **File Upload**: Users can upload an Excel file containing student performance data.
@@ -39,7 +39,7 @@ Lists all the required libraries and dependencies to run the project. Ensures th
 - numpy
 - pytest
 
-## Design Choices and Considerations
+## Primary applications used
 ### Design Choices
 1. **Streamlit for GUI**: Chosen for its simplicity and ease of use in creating web applications.
 2. **Plotly for Visualization**: Provides interactive and visually appealing charts and graphs.
